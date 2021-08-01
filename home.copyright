@@ -2,6 +2,7 @@ class home.copyright
 {
 public void main(string [] args
 {
-system.out.println("hello form home.copyright"):
+system.out.println("hello form home.copyright");
+this page belongs to me
 }
 }
